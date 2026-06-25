@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=raghuramcoding)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=raghuramcoding)
 
 <!--
 **Raghuramcoding/raghuramcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
