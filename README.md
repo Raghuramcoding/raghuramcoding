@@ -1,7 +1,7 @@
 ## Hi there 👋
-[…query…] := stats=username%3Draghuramcoding%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26hide_border%3Dtrue&languages=username%3Draghuramcoding%26layout%3Ddonut-vertical%26theme%3Dradical%26langs_count%3D4%26hide_border%3Dtrue&trophies=username%3Draghuramcoding%26theme%3Dradical%26column%3D3%26margin-w%3D9%26margin-h%3D9%26title%3DLongTimeUser%2CExperience%2CCommits
+
 <p align="center">
-<img width="776" height="352" alt="[raghuramcoding's GitHub stats - refresh to load image]" src="https://github-stats-combinator.vercel.app/api?[…query…]">
+<img width="776" height="352" alt="[raghuramcoding's GitHub stats - refresh to load image]" src="https://github-stats-combinator.vercel.app/api?[raghuramcoding]">
 </p>
 
 <!--
