@@ -1,7 +1,5 @@
 ## Hi there 👋
-[![trophy](https://YOUR-DEPLOYMENT.vercel.app/?theme=)](https://github.com/ryo-ma/github-profile-trophy)
-waiting for vercel to deploy 
-will update tommorow
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=raghuramcoding)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **Raghuramcoding/raghuramcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
