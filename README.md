@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=raghuramcoding)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Raghuramcoding&langs_count=10&theme=default_repocard)](https://github-stats-extended.vercel.app/api/top-langs?username=Raghuramcoding&langs_count=10&theme=default_repocard)
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=raghuramcoding)
+(https://github-contributor-stats.vercel.app/api?username=raghuramcoding)
 <!--
 **Raghuramcoding/raghuramcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
